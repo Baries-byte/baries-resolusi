@@ -3,4 +3,4 @@ Baries Resolusi
 -Ngerjain Skripsi 8 jam sehari
 -Membuat web portofolio pribadi dan di hosting
 -S2 di Luar Negeri
--Ngebangun Sistem buat GB
+-Membangun Sistem Informasi GB
